@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","names":["generic","errors"],"sources":["../../src/index.ts"],"sourcesContent":["export { generic } from './generic'\nexport { errors } from './errors'\n"],"mappings":"AAAA,SAASA,OAAO,QAAQ,WAAW;AACnC,SAASC,MAAM,QAAQ,UAAU","ignoreList":[]}
